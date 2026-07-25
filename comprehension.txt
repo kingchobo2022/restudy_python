@@ -1,0 +1,16 @@
+# List Comprehension
+# 리스트 컴프리헨션
+
+1부터 5까지의 숫자를 
+제곱한 리스트
+
+[1, 4, 9, 16, 25]
+
+squares = []
+
+for x in range(1, 6):
+    squares.append(x ** 2)
+
+print(squares)    
+
+[ 표현식(결과값) for 임시변수 in 반복가능한객체 ]
