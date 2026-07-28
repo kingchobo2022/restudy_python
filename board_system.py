@@ -39,6 +39,7 @@ def list_posts():
         tag_str = " ".join([f"#{tag}" for tag in post["tags"]] if post["tags"] else "태그 없음")    
         print(f"{idx}. [{post['id']}번] {post['title']} | 작성자: {post['author']} | 조회 수: {post['views']}")
         print(f"    - 내용 : {post['content']}")
+        print(f"    - 태그: {tag_str}")
         print(f"-" * 50)
 
 def search_posts(keyword):
