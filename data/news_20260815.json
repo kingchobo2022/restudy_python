@@ -1,0 +1,66 @@
+{
+    "collected_at": "2026-08-15 11:44:20",
+    "total_count": 10,
+    "articles": [
+        {
+            "rank": 1,
+            "title": "Magnitude 7.7 Earthquake – 68 km NNW of Ende, Indonesia",
+            "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive",
+            "domain": "earthquake.usgs.gov"
+        },
+        {
+            "rank": 2,
+            "title": "Qwen 3.8 27B",
+            "link": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
+            "domain": "huggingface.co"
+        },
+        {
+            "rank": 3,
+            "title": "Going Dark, and the era of law enforcement hacking",
+            "link": "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/",
+            "domain": "blog.cryptographyengineering.com"
+        },
+        {
+            "rank": 4,
+            "title": "Simplifying and Refactoring Introductory Calculus",
+            "link": "https://arxiv.org/abs/1811.03459",
+            "domain": "arxiv.org"
+        },
+        {
+            "rank": 5,
+            "title": "The Ploopy A+ Trackball Is Here",
+            "link": "https://blog.ploopy.co/the-aplus-is-finally-here-499",
+            "domain": "blog.ploopy.co"
+        },
+        {
+            "rank": 6,
+            "title": "Google is making private AI practical with homomorphic encryption",
+            "link": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
+            "domain": "blog.google"
+        },
+        {
+            "rank": 7,
+            "title": "RustDesk now supports true unattended remote access on Wayland",
+            "link": "https://rustdesk.com/blog/unattended-remote-access-wayland/",
+            "domain": "rustdesk.com"
+        },
+        {
+            "rank": 8,
+            "title": "Hi-Fi Tape Recorder Changed Radio Forever",
+            "link": "https://spectrum.ieee.org/magnetophon-laugh-track",
+            "domain": "spectrum.ieee.org"
+        },
+        {
+            "rank": 9,
+            "title": "Corgi kills short-lived website that ranked its female employees",
+            "link": "https://sf.gazetteer.co/corgi-kills-short-lived-website-that-ranked-its-female-employees",
+            "domain": "sf.gazetteer.co"
+        },
+        {
+            "rank": 10,
+            "title": "Super Mario Derivations",
+            "link": "https://fzakaria.com/2026/08/05/super-mario-derivations",
+            "domain": "fzakaria.com"
+        }
+    ]
+}
